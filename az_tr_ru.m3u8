@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="AZ",AzTV
+https://aztv.live/stream/index.m3u8
+#EXTINF:-1 tvg-country="AZ",CBC Sport
+https://player.cbc.az/hls/cbcsport/index.m3u8
+
+#EXTINF:-1 tvg-country="TR",ATV Türkiye
+https://edge1.socialtv.live/hls/atv/index.m3u8
+#EXTINF:-1 tvg-country="TR",Kanal D
+https://tv.kanald.com.tr/live/kanald.m3u8
+
+#EXTINF:-1 tvg-country="RU",Rossiya 24
+https://edge1.socialtv.live/hls/rossiya24/index.m3u8
+#EXTINF:-1 tvg-country="RU",Perviy Kanal
+https://stream1.perviytv.ru/hls/perviy/index.m3u8
